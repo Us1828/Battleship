@@ -1,0 +1,15 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: gray;
+}
+
+#fieldPlayer{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
+#fieldEnemy{
+    margin-top: 10%;
+    margin-left: 60%;
+}
